@@ -1,5 +1,7 @@
 # Rider_Game
 
+## [Click Here to Play](https://play.unity.com/en/games/eb5dc04a-69d8-4c32-9813-f68db211b88d/webgl-builds)
+
 ## Game Demo - WIP
 
 
